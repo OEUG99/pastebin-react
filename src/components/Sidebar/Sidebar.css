@@ -1,0 +1,18 @@
+#SidebarHeading{
+    text-align: center;
+    padding: -20px 0;
+    margin-left: 0px;
+    vertical-align: middle;
+    color: white;
+}
+
+#RecentPastes{
+    padding: -20px 0;
+    margin-left: 0px;
+    vertical-align: middle;
+    color: white;
+}
+
+#RecentPastes li{
+    padding-bottom: 15%;
+}
