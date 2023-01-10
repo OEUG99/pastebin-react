@@ -1,0 +1,13 @@
+#EditorContainer{
+    width: 100%;
+}
+
+.CodeInputInterface{
+;
+    /*
+    center so that it is similar to it being inside <center> tags
+     */
+    text-align:center;
+
+
+}

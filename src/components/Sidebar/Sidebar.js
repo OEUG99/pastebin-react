@@ -4,7 +4,7 @@ import './Sidebar.css';
 class Sidebar extends React.Component{
     render() {
         return (
-            <div>
+            <>
                 <p id="SidebarHeading">
                     <b><u>Recent Pastes: </u></b>
                 </p>
@@ -17,7 +17,7 @@ class Sidebar extends React.Component{
                     </ul>
                 </div>
 
-            </div>
+            </>
         );
     }
 

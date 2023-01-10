@@ -1,0 +1,17 @@
+body{
+    background: #777777;
+}
+
+.UserInterface{
+    margin: auto;
+    width: 95%;
+    height: 900px;
+
+}
+
+
+.submitButton{
+    margin-top: 10px;
+}
+
+

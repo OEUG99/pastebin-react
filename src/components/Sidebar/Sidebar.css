@@ -16,3 +16,12 @@
 #RecentPastes li{
     padding-bottom: 15%;
 }
+
+.div{
+    background-color: #444444;
+    width:25%;
+    margin: 0 auto;
+    float:left;
+    margin-left:2%;
+    height: 900px;
+}
